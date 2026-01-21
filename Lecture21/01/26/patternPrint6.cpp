@@ -1,4 +1,4 @@
-// Q5.
+// Q6.
 #include<iostream>
 using namespace std;
 
